@@ -1,0 +1,5 @@
+/home/nash/Projects/sandbox/arduino/Mono/SerialPortMsg/AruduinoSerialPortMessaging/AruduinoSerialPortMessaging/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nash/Projects/sandbox/arduino/Mono/SerialPortMsg/AruduinoSerialPortMessaging/AruduinoSerialPortMessaging/bin/Debug/AruduinoSerialPortMessaging.exe.mdb
+/home/nash/Projects/sandbox/arduino/Mono/SerialPortMsg/AruduinoSerialPortMessaging/AruduinoSerialPortMessaging/bin/Debug/AruduinoSerialPortMessaging.exe
+/home/nash/Projects/sandbox/arduino/Mono/SerialPortMsg/AruduinoSerialPortMessaging/AruduinoSerialPortMessaging/obj/x86/Debug/AruduinoSerialPortMessaging.exe
+/home/nash/Projects/sandbox/arduino/Mono/SerialPortMsg/AruduinoSerialPortMessaging/AruduinoSerialPortMessaging/obj/x86/Debug/AruduinoSerialPortMessaging.exe.mdb
