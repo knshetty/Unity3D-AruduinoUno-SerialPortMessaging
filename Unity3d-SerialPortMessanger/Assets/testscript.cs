@@ -25,7 +25,7 @@ public class testscript : MonoBehaviour
     void Start()
     {
         // --- Initialise serail port for a specific OS ---
-        string portNameExtracted = GetPortName("Windows");
+        string portNameExtracted = GetPortName("Windows"); // Options are >> Linux, Windows, Android
         diagnoticTxt.text = portNameExtracted;
         portToMsg = new SerialPort(portNameExtracted, 9600, Parity.None, 8, StopBits.One);
 
